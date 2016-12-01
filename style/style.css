@@ -1,0 +1,30 @@
+.title {
+    text-align: center;
+    background-color: aqua;
+}
+
+.error {
+    font-weight: bold;
+    color: red;
+    text-align: center;
+}
+
+.correct {
+    font-weight: bold;
+    color: greenyellow;
+    text-align: center;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+.right {
+    float: right;
+}
+
+.middle {
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
